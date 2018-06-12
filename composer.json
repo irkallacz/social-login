@@ -1,15 +1,8 @@
 {
-  "name": "venca-x/social-login",
+  "name": "irkalla/social-login",
   "description": "Nette addon. Login with social networks ( Faceboook, Google, Twitter )",
   "keywords": ["social login", "php", "nette", "Facebook login", "Google login", "Twitter login"],
   "license": "MIT",
-  "authors": [
-    {
-      "name": "vEnCa-X",
-      "email": "venca-x@seznam.cz",
-      "homepage": "http://www.venca-x.cz"
-    }
-  ],
   "require": {
     "php": ">=7.0",
     "nette/application": ">=2.2.0",
